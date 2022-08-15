@@ -4,19 +4,9 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I have experience working in the field of Data Analytics, Time series forecasting, Machine Learning, Clustering, Deep Learning Techniques, Natural Language Processing, pytorch frameworks, tensorflow framework along with bayesian statistics.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I love technology and see it as a tool to build upon for the advancement of society. We can create a sustainable future if we harness the power of technology in the correct manner. At the same time, we need to focus on it to be used for constructive purposes and not become modest at the same time.I am an Applied(^~¬) Data(0,1) Science(+-*/=) student at the Unversity of Essex.</p>
 
 <h2>Skills</h2>
 
