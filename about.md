@@ -29,7 +29,7 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/mahii6991/Kaggle_Projects/blob/main/project-on-epileptic-seizure-recognition.ipynb">95.8% correctly classified Epileptic Seizure Recognition condition</a></li>
+	<li><a href="https://github.com/mahii6991/Kaggle_Projects/blob/main/playing-with-anime.ipynb">Used NLP to build the model to correctly classify the Anime Quotes </a></li>
+	<li><a href="https://github.com/mahii6991/Kaggle_Projects/blob/main/building-the-ml-model.ipynb">Created my own model and benchmarked it aganist prebuild models</a></li>
 </ul>
