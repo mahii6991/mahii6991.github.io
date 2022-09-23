@@ -8,6 +8,8 @@ layout: page
 
 <p>I love technology and see it as a tool to build upon for the advancement of society. We can create a sustainable future if we harness the power of technology in the correct manner. At the same time, we need to focus on it to be used for constructive purposes and not become modest at the same time.I am an Applied(^~¬) Data(0,1) Science(+-*/=) student at the Unversity of Essex.</p>
 
+<p> My research area includes the evolving topic of Federated Learning, a technique that trains an algorithm across multiple decentralized edge devices or servers holding local data samples, without exchanging them.</p>
+
 <h2>Skills</h2>
 
 <ul class="skill-list">
