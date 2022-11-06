@@ -1,5 +1,5 @@
 ---
-title: "Markdown Extra Components"
+title: "Modelling observation and experimentation"
 layout: post
 date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
@@ -15,7 +15,7 @@ description: Markdown summary with different options
 
 ## Summary:
 
-You can pick as item to see how to apply in markdown.
+Modelling is one of the important characterstic of the dataset when it comes to the extracting the insights from it, be it applying the regular linear model into it or doing some of the statistical analysis on the data.
 
 #### Especial Elements
 - [Evidence](#evidence)
