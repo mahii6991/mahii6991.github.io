@@ -10,7 +10,7 @@ tag:
 - extra
 category: blog
 author: jamesfoster
-description: Markdown summary with different options
+description: Modelling observation and experimentation
 ---
 
 ## Summary:
