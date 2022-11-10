@@ -46,7 +46,7 @@ You can try the evidence!
 
 ## Side-by-side
 
-Like the [Medium](https://medium.com/) component.
+Like the [Medium](https://medium.com/@m.s.rajpoot20/what-is-the-difference-between-the-authentication-between-google-auth-and-jwt-auth-32dbb44b09a4) component.
 
 **Image** on the left and **Text** on the right:
 
